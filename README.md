@@ -5,5 +5,7 @@
 <br>
 <img align="left" height="600" width="400" src="Texto do seu parágrafo/1.jpg">
 <br> 
+<br>
+<br>
 <img align="left" height="600" width="400" src="Texto do seu parágrafo/2.jpg">
 </br>
